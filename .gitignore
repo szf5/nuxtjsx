@@ -1,3 +1,9 @@
+notes.md
+
+# Firebase
+.firebaserc
+/.firebase/
+
 # Logs
 logs
 *.log
@@ -5,6 +11,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+
+# iDE
+.idea
+.vscode
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
